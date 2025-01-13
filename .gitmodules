@@ -1,0 +1,12 @@
+[submodule "CommManager4MATLAB"]
+	path = CommManager4MATLAB
+	url = git@github.com:PeterCalifano/CommManager4MATLAB.git
+	branch = dev_main
+[submodule "CommManager4CPP"]
+	path = CommManager4CPP
+	url = git@github.com:PeterCalifano/CommManager4CPP.git
+	branch = dev_main
+[submodule "CommManager4Python"]
+	path = CommManager4Python
+	url = git@github.com:PeterCalifano/CommManager4Python.git
+	branch = dev_main
